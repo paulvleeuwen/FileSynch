@@ -1,0 +1,5 @@
+C:\Users\leeuw247\source\repos\FileSynch\FileSynch\bin\publish\FileSynch.exe
+C:\Users\leeuw247\source\repos\FileSynch\FileSynch\bin\publish\FileSynch.dll
+C:\Users\leeuw247\source\repos\FileSynch\FileSynch\bin\publish\FileSynch.deps.json
+C:\Users\leeuw247\source\repos\FileSynch\FileSynch\bin\publish\FileSynch.runtimeconfig.json
+C:\Users\leeuw247\source\repos\FileSynch\FileSynch\bin\publish\FileSynch.pdb
